@@ -66,6 +66,7 @@ docker images # check the images that has been built
 ```
 <img width="455" height="263" alt="Image" src="https://github.com/user-attachments/assets/3f5dbf39-c8ac-4be8-81bc-fae207ebc6cf" />
 
+<img width="455" height="57" alt="Image" src="https://github.com/user-attachments/assets/f72a2667-8cd3-4783-9590-547c69159aeb" />
 
 ## step 5: Tag the Image for Docker Hub
 ```
