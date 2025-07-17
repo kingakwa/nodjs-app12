@@ -34,5 +34,7 @@ groups #check if docker is a group user
 ```
 # Step 2: Clone the Project on gitHub
 ```
-git clone 
+git clone https://github.com/kingakwa/nodjs-app12
+```
+
 
