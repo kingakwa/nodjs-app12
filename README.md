@@ -16,6 +16,9 @@
 └── README.md                 # Project documentation
 
 ##  Project Architecture
+
+<img width="285" height="287" alt="Image" src="https://github.com/user-attachments/assets/59a812f1-11cb-42ec-9bfc-faa5111b2652" />
+
 - Build the Docker image locally.
 - Push it to Docker Hub.
 - Launch an EC2 instance on AWS with Docker installed.
