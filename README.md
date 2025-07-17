@@ -1,4 +1,4 @@
-# 🚀 NodeDockerApp – Node.js App in a Docker Container Mounted on AWS EC2
+# 🚀project: Node.js App – Node.js App in a Docker Container Mounted on AWS EC2
 
 ## 📝 Overview
 - This project demonstrates how to:
