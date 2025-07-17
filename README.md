@@ -96,3 +96,6 @@ This maps host port 3000 to container port 3080
 The NodeDockerApp project provides a practical and scalable foundation for deploying a Node.js application using Docker and AWS EC2. By containerizing the app, we ensure consistency across environments, simplify deployments, and enable easy integration with cloud infrastructure. Hosting it on an EC2 instance allows for cost-effective and flexible scalability suitable for both development and production use cases.
 
 This project not only demonstrates the fundamentals of Docker and Node.js but also introduces best practices in modern DevOps workflows. Whether you're a developer looking to containerize your apps or a DevOps engineer deploying scalable services, this project serves as a solid starting point for real-world containerized deployments.
+
+
+## project team: Yuefebop T and Akwa B,Njie
